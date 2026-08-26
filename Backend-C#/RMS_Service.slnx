@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/Application/Application.csproj" />
+    <Project Path="Core/Domain/Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/External_Service/External_Service.csproj" />
+    <Project Path="Infrastructure/Persistence/Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/VeriToplama/VeriToplama.csproj" />
+    <Project Path="Presentation/WebApplication/WebApplication.csproj" Id="d7489c30-0ced-41e3-930d-02ad4aabc1e4" />
+  </Folder>
+</Solution>

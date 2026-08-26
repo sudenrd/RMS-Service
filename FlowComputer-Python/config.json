@@ -1,0 +1,11 @@
+[
+
+{"data":"PRESSURE", "type":"Float", "unit":"BarA", "address":4000} ,
+
+{"data":"TEMPERATURE", "type":"Float", "unit":"degC", "address":4002},
+
+{"data":"FLOW RATE", "type":"Float", "unit":"sm³/h", "address":4004},
+
+{"data":"ENERGY", "type":"Float", "unit":"Mcal/h", "address":4006}
+
+]
