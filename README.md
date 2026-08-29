@@ -1,6 +1,6 @@
 # Modbus Flow Computer Simülasyonu ve Veri Toplama Servisi
 
-Bu proje, BOTAŞ staj programı kapsamında geliştirilmiş; Modbus TCP üzerinden endüstriyel Flow Computer verilerini simüle eden, arka planda asenkron olarak toplayan ve bir Web API aracılığıyla sunan bir sistemdir. Backend tarafında veri güvenilirliğini ve sürdürülebilirliği sağlamak için Onion Architecture prensipleri kullanılmıştır.
+Bu proje, Modbus TCP üzerinden endüstriyel Flow Computer verilerini simüle eden, arka planda asenkron olarak toplayan ve bir Web API aracılığıyla sunan bir sistemdir. Backend tarafında veri güvenilirliğini ve sürdürülebilirliği sağlamak için Onion Architecture prensipleri kullanılmıştır.
 
 ## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
 
